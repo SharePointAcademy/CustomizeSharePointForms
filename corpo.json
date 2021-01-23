@@ -1,0 +1,27 @@
+{
+    "sections": [
+        {
+            "displayname": "Dados do Cliente",
+            "fields": [
+                "Nome",
+                "Email",
+                "Celular"
+            ]
+        },
+        {
+            "displayname": "Endereço",
+            "fields": [
+                "Endereco",
+                "Cidade",
+                "Estado",
+                "Cep"
+            ]
+        },
+        {
+            "displayname": "Situação",
+            "fields": [
+                "Status"
+            ]
+        }
+    ]
+}
